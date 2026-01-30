@@ -1,7 +1,7 @@
 # Home_Lab_Progress
 Daily updates and documentation of the setup and development of my homelab
 
-30/1/25
+## 30/1/25 
 
 **Summary:**
 - Researched and developed initial plan of what hardware I will use for my homelab
